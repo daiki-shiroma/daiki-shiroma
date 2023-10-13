@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiki-shiroma&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=daiki-shiroma&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daiki-shiroma&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![](https://raw.githubusercontent.com/daiki-shiroma/daiki-shiroma/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/daiki-shiroma/daiki-shiroma/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/daiki-shiroma/daiki-shiroma/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/daiki-shiroma/daiki-shiroma/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/daiki-shiroma/daiki-shiroma/main/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
