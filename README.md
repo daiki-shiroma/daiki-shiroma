@@ -40,4 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 
-![Anurag's GitHub stats](https://git-hub-readme-stats-clone-x2mm.vercel.app/api?username=daiki-shiroma&count_private=true)
+![github-readme-stats](https://djelnasole.vercel.app/api/?username=daiki-shiroma)
+
+![github-readme-stats](https://djelnasole.vercel.app/api/top-langs/?username=daiki-shiroma)
+
