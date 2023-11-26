@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/daiki-shiroma/daiki-shiroma/">
     <img src="https://komarev.com/ghpvc/?username=daiki-shiroma" alt="daiki-shiroma" />
   </a>
-  <a href="http://twitter.com/daiki-shiroma">
+  <a href="https://twitter.com/k968_Chimix">
     <img height="20" src="https://img.shields.io/twitter/follow/daiki-shiroma?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/daiki-shiroma">
