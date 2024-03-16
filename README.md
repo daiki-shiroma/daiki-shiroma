@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 
 
 
-![github-readme-stats](https://djelnasole.vercel.app/api/?username=daiki-shiroma)
 
-![github-readme-stats](https://djelnasole.vercel.app/api/top-langs/?username=daiki-shiroma)
+![github-readme-stats](https://git-hub-readme-stats-include-private-repo.vercel.app/api/?username=daiki-shiroma)
 
