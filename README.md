@@ -42,3 +42,5 @@ Here are some ideas to get you started:
 
 ![github-readme-stats](https://git-hub-readme-stats-include-private-repo.vercel.app/api/?username=daiki-shiroma)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daiki-shiroma&show_icons=true)
+
