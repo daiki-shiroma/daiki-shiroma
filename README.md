@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 
-![github-readme-stats](https://git-hub-readme-stats-include-private-repo.vercel.app/api/?username=daiki-shiroma)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiki-shiroma)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daiki-shiroma&show_icons=true)
 
